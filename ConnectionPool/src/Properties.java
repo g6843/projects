@@ -1,7 +1,7 @@
 public class Properties {
 	public static final int IDLE_TIMEOUT = 60000;
 	private static String DRIVER_NAME = "com.edb.Driver";
-	private static String URL = "jdbc:edb://localhost:5444/ppas_gsonal";
+	private static String URL = "jdbc:edb://localhost:5444/xyz";
 	private static String USERNAME = "tkcsowner";
 	private static String PASSWORD = "tkcsowner";
 	private static int MIN_POOL_SIZE = 10;

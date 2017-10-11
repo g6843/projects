@@ -13,7 +13,7 @@ public class DataSource {
 			PropertyVetoException {
 		cpds = new ComboPooledDataSource();
 		cpds.setDriverClass("com.edb.Driver");
-		cpds.setJdbcUrl("jdbc:edb://localhost:5444/ppas_gsonal");
+		cpds.setJdbcUrl("jdbc:edb://localhost:5444/xyz");
 		cpds.setUser("tkcsowner");
 		cpds.setPassword("tkcsowner");
 		cpds.setMinPoolSize(1);

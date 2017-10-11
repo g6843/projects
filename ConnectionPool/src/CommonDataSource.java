@@ -18,7 +18,7 @@ public class CommonDataSource {
 	private final static String DRIVER_NAME = "com.edb.Driver";
 	private final static String USERNAME = "tkcsowner";
 	private final static String PASSWORD = "tkcsowner";
-	private final static String URL = "jdbc:edb://localhost:5444/ppas_gsonal";
+	private final static String URL = "jdbc:edb://localhost:5444/xyz";
 
 	private static BasicDataSource ds;
 	private static BoneCP bcp;
