@@ -1,0 +1,7 @@
+COLUMN_A	COLUMN_B	COLUMN_C
+123	"This is a sample text which will have a new line next.
+You will have to discard this new line."	1
+345	no new line in this 	2
+567	"This is another sample text which has a new line next.
+You will have to discard this new line again."	3
+789	sample!	4
